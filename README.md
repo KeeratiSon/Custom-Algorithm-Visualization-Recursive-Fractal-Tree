@@ -31,7 +31,7 @@ void FractalTree::drawBranch(QPainter &painter, double x, double y,
 }
 ```
 
-Each child branch is 72% the length of its parent and diverges by ±25°
+Each child branch is 85% the length of its parent and diverges by ±25°
 (with a small random jitter for a less mechanical, more organic look).
 
 ### Grow / degrow animation
